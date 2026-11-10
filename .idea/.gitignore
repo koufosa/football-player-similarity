@@ -1,0 +1,35 @@
+
+# PyCharm configuration
+.idea/
+shelf/
+workspace.xml
+httpRequests/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+Conda/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS files
+.DS_Store
+
+# Wyscout datasets
+data/
+events.zip
+matches.zip
+
+# Generated model files
+*.pkl
+*.joblib
